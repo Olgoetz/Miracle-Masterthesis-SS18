@@ -1,0 +1,10 @@
+Please provide me information about {CustomerFirstName} {CustomerLastName}
+Please provide me information about {CustomerID}
+What do we have about {CustomerLastName} {CustomerFirstName}
+What do we have about {CustomerID}
+Give me information about {CustomerID}
+Give me information about {CustomerFirstName} {CustomerLastName}
+I need information about a customer
+I need information about {CustomerFirstName} {CustomerLastName}
+I need customer information about {CustomerID}
+Give me information about customer {CustomerID}

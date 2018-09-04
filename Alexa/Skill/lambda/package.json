@@ -1,0 +1,20 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Goetz",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.0.5",
+    "axios": "^0.18.0",
+    "nodemailer": "^4.6.8",
+    "nodemailer-juice": "^1.0.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {}
+}
